@@ -1,2 +1,1 @@
-Repository containing bash commands
-0-current_working_directory: executes pwd
+Repo for ALX software engineering course
